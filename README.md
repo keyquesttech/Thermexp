@@ -2,7 +2,7 @@
 
 Welcome to the Thermistor Expansion PCB project! This custom PCB is designed to expand the number of thermistors in your printer, supporting up to 8 NTC100k or PT1000 thermistors. You can mix and match different types to suit your needs. 
 
-![Thermistor Expansion PCB](Thermexp/Pics/Front_view.jpg)
+![Thermistor Expansion PCB](Pics/Front_view.jpg)
 
 ## Features
 
