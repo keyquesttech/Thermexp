@@ -29,4 +29,4 @@ If you are looking for a commercial alternative, check out [Therm2 by Not Salmon
 
 ## Contact
 
-Feel free to reach out with any questions, comments, or feedback. Happy printing!
+Currenlty working on a new version with multiple integrated MAX amplifiers and support for more thermistors. For updates join the discord: https://discord.gg/GEyaRTchyN
