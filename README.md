@@ -11,7 +11,7 @@ Welcome to the Thermistor Expansion PCB project! This custom PCB is designed to 
 - Manual flashing required (no auto-flashing with Ratos)
 - Compact and efficient design
 
-![Back View](Thermexp/Pics/Back_view.png)
+![Back View](Pics/Back_view.png)
 
 ## Project Background
 
@@ -19,7 +19,7 @@ I created this project because the current commercial options didn't meet my sta
 
 For those interested, I’m planning a small production run of just 5 units. Due to the limited quantity, the price will be around $60 each plus shipping. If there’s enough interest, I’d love to create an improved version with a better MCU, more flash memory, and support for NTC100k, PT1000, and PT100 thermistors with a MAX amplifier, as well as automatic flashing with Ratos.
 
-![In Use](Thermexp/Pics/In_use.png)
+![In Use](Pics/In_use.png)
 
 ## How to Get Involved
 
