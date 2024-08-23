@@ -1,0 +1,1 @@
+Thease are just easyeda fab files. To create GERBER and PNP files you have to create an easyeda.com account and import the files to then create and export the fab files
